@@ -1,0 +1,72 @@
+﻿<Window x:Class="кт12.SecondWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:кт12"
+        mc:Ignorable="d"
+        Title="Второе окно" Height="450" Width="800">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <Menu.Resources>
+                <Style TargetType="MenuItem">
+                    <Setter Property="FontSize" Value="8pt"/>
+                    <Setter Property="VerticalContentAlignment" Value="Center"/>
+                    <Setter Property="Padding" Value="0, 6, 10, 6"/>
+                </Style>
+            </Menu.Resources>
+            <MenuItem Header="Настройки" Click="MenuItem_Click">
+                <MenuItem.Icon>
+                    <Image Source="imgs/sett.png"
+                           Width="10"
+                           Height="10"
+                           Stretch="Uniform"/>
+                </MenuItem.Icon>
+                <MenuItem Header="Отключить приветствие"
+                          IsCheckable="True"
+                          IsChecked="False"
+                          StaysOpenOnClick="True"
+                          Click="UnableGreeting_Click"/>
+                <MenuItem Header="Добавить картинку"
+                          IsCheckable="True"
+                          IsChecked="False"
+                          StaysOpenOnClick="True"
+                          Click="AddEmoji_Click"/>
+                <Separator/>
+                <MenuItem Header="Закрыть"
+                          Click="CloseMenu_Click"/>
+            </MenuItem>
+        </Menu>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="1">
+                <TextBlock Text="Это второе окно:)"
+                       FontFamily="Book Antiqua"
+                       Foreground="HotPink"
+                       FontSize="20"
+                       Margin="0,0,0,20"
+                       TextAlignment="Center"/>
+                <TextBox x:Name="UserNameTextBox" 
+                        Text="Введите имя" 
+                        FontSize="12pt"
+                        FontFamily="Book Antiqua"
+                        Foreground="Gray"
+                        BorderBrush="Gray"
+                        Margin="0,0,0,10"
+                        Height="40"/>
+                <Button Content="Сохранить"
+                    FontFamily="Book Antiqua"
+                    Background="White"
+                    Foreground="HotPink"
+                    BorderBrush="HotPink"
+                    Width="120"
+                    Height="40"
+                    FontSize="14"
+                    Click="OpenMain_Click"/>
+            </StackPanel>
+        </Grid>
+    </DockPanel>
+</Window>
