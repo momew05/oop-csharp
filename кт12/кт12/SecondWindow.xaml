@@ -1,0 +1,27 @@
+﻿<Window x:Class="кт12.SecondWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:кт12"
+        mc:Ignorable="d"
+        Title="Второе окно" Height="450" Width="800"
+       >
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBlock Text="Это второе окно:)"
+                       FontSize="20"
+                       Margin="0,0,0,20"
+                       TextAlignment="Center"/>
+            <TextBox x:Name="UserNameTextBox" 
+                 Text="Введите имя" 
+                 Margin="0,0,0,10"
+                 Height="25"/>
+            <Button Content="Сохранить"
+                    Width="120"
+                    Height="40"
+                    FontSize="14"
+                    Click="OpenMain_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>
