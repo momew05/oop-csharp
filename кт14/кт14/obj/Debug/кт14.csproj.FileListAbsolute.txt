@@ -1,0 +1,16 @@
+C:\Users\вапр\source\repos\кт14\кт14\bin\Debug\кт14.exe.config
+C:\Users\вапр\source\repos\кт14\кт14\bin\Debug\кт14.exe
+C:\Users\вапр\source\repos\кт14\кт14\bin\Debug\кт14.pdb
+C:\Users\вапр\source\repos\кт14\кт14\obj\Debug\кт14.csproj.AssemblyReference.cache
+C:\Users\вапр\source\repos\кт14\кт14\obj\Debug\MainWindow.g.cs
+C:\Users\вапр\source\repos\кт14\кт14\obj\Debug\App.g.cs
+C:\Users\вапр\source\repos\кт14\кт14\obj\Debug\кт14_MarkupCompile.cache
+C:\Users\вапр\source\repos\кт14\кт14\obj\Debug\кт14_MarkupCompile.lref
+C:\Users\вапр\source\repos\кт14\кт14\obj\Debug\MainWindow.baml
+C:\Users\вапр\source\repos\кт14\кт14\obj\Debug\кт14.g.resources
+C:\Users\вапр\source\repos\кт14\кт14\obj\Debug\кт14.Properties.Resources.resources
+C:\Users\вапр\source\repos\кт14\кт14\obj\Debug\кт14.csproj.GenerateResource.cache
+C:\Users\вапр\source\repos\кт14\кт14\obj\Debug\кт14.csproj.CoreCompileInputs.cache
+C:\Users\вапр\source\repos\кт14\кт14\obj\Debug\кт14.exe
+C:\Users\вапр\source\repos\кт14\кт14\obj\Debug\кт14.pdb
+C:\Users\вапр\source\repos\кт14\кт14\obj\Debug\кт14.exe.config
