@@ -1,0 +1,17 @@
+C:\Users\вапр\source\repos\кт17\кт17\bin\Debug\кт17.exe.config
+C:\Users\вапр\source\repos\кт17\кт17\bin\Debug\кт17.exe
+C:\Users\вапр\source\repos\кт17\кт17\bin\Debug\кт17.pdb
+C:\Users\вапр\source\repos\кт17\кт17\obj\Debug\кт17.csproj.AssemblyReference.cache
+C:\Users\вапр\source\repos\кт17\кт17\obj\Debug\MainWindow.g.cs
+C:\Users\вапр\source\repos\кт17\кт17\obj\Debug\Window1.g.cs
+C:\Users\вапр\source\repos\кт17\кт17\obj\Debug\App.g.cs
+C:\Users\вапр\source\repos\кт17\кт17\obj\Debug\кт17_MarkupCompile.cache
+C:\Users\вапр\source\repos\кт17\кт17\obj\Debug\кт17_MarkupCompile.lref
+C:\Users\вапр\source\repos\кт17\кт17\obj\Debug\MainWindow.baml
+C:\Users\вапр\source\repos\кт17\кт17\obj\Debug\Window1.baml
+C:\Users\вапр\source\repos\кт17\кт17\obj\Debug\кт17.g.resources
+C:\Users\вапр\source\repos\кт17\кт17\obj\Debug\кт17.Properties.Resources.resources
+C:\Users\вапр\source\repos\кт17\кт17\obj\Debug\кт17.csproj.GenerateResource.cache
+C:\Users\вапр\source\repos\кт17\кт17\obj\Debug\кт17.csproj.CoreCompileInputs.cache
+C:\Users\вапр\source\repos\кт17\кт17\obj\Debug\кт17.exe
+C:\Users\вапр\source\repos\кт17\кт17\obj\Debug\кт17.pdb
